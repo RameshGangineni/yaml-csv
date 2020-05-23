@@ -1,0 +1,8 @@
+---
+environment: dev
+classes:
+  nfs::server:
+    exports:
+      - /srv/share1
+      - /srv/share2
+parameters:

@@ -1,0 +1,2 @@
+environment,parameters,classes.nfs::server.exports
+dev,,"['/srv/share1', '/srv/share2']"
